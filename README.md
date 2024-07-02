@@ -1,3 +1,3 @@
 # MajesticBot
 Бот на рыбалку Majestic RP.
-https://www.youtube.com/embed/6YobAC-djVs?si=Np0gJk-A9TxnhDFb
+https://www.youtube.com/watch?v=6YobAC-djVs
