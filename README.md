@@ -1,53 +1,13 @@
 # Бот на рыбалку Majestic RP
-
-
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="200"/>
-<h3 align="center">https://www.youtube.com/watch?v=6YobAC-djVs</h3>
 <div align="center">
-  <img src="https://github.com/MMMonarch/MajesticBot/blob/main/BotFish.png" height="400"/>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="200"/>
 </div>
-
-# Мой проект
-
-
-
+<h3 align="center">https://www.youtube.com/watch?v=6YobAC-djVs</h3>
 <div align="center">
   <img src="https://github.com/MMMonarch/MajesticBot/blob/main/BotFish.png" height="400"/>
 </div>
 
 ## Описание проекта
 
-Этот проект включает в себя несколько важных функций и возможностей. 
-
-### Основные функции:
-
-1. Функция первая
-   - Подфункция 1
-   - Подфункция 2
-2. Функция вторая
-   - Подфункция 1
-   - Подфункция 2
-3. Функция третья
-   - Подфункция 1
-   - Подфункция 2
-
-### Использование:
-
-Обычный текст: Для использования этого проекта, выполните следующие шаги:
-
-1. Клонируйте репозиторий на свой локальный компьютер.
-2. Установите все необходимые зависимости.
-3. Запустите проект, используя команду `npm start`.
-
-```bash
-# Клонируем репозиторий
-git clone https://github.com/MMMonarch/MajesticBot.git
-
-# Переходим в директорию проекта
-cd MajesticBot
-
-# Устанавливаем зависимости
-npm install
-
-# Запускаем проект
-npm start
+Бот не читает и не перезаписывает память процесса игры, что убирает риск получения бана. Бот имитирует действия обычного пользователя, делая скриншоты окна Majestic. При наблюдении за ботом, бан получить невозможно, так как бот полностью имитирует действия реального игрока и взаимодействует с игрой исключительно через скриншоты и нажатия клавиш.
+Если хочешь узнать как получить бота подпишись на мой телеграмм канал.
