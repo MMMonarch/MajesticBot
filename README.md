@@ -1,7 +1,7 @@
 # Бот на рыбалку Majestic RP
 
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="200"/>
 <h3 align="center">https://www.youtube.com/watch?v=6YobAC-djVs</h3>
 <div align="center">
   <img src="https://github.com/MMMonarch/MajesticBot/blob/main/BotFish.png" height="400"/>
